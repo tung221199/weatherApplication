@@ -85,4 +85,5 @@ public class Weather {
                 ", cityID=" + cityID +
                 '}';
     }
+
 }
